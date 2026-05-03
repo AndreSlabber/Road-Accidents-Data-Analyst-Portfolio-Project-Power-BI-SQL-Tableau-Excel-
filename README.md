@@ -4,11 +4,10 @@ How to Use This Power BI Dashboard
 
 1. Download both files:
 
-   * `Road_Accident_Analysis.pbix`
-   * `data.xlsx`
+   * Power BI - Road Accidents.pbix
+   * Road Accident Data.xlsx
 
-2. Place both files in the **same folder**
-
+2. Place both files in the same folder
 3. Open the `.pbix` file in Power BI Desktop
 
 4. If you see an error:
